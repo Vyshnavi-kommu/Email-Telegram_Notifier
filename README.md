@@ -124,7 +124,7 @@ You must provide key/config to Gemini API, or you can use any other LLM you wish
 ## ⚠️ Notes
 
 - **Never share your secrets or `credentials.json` file** publicly!
-- This is a demo/prototype for personal productivity—tune your AI prompts for best results.
+- This is a sample demo/prototype for personal productivity—tune your AI prompts for best results.
 
 ---
 
