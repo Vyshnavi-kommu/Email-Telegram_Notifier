@@ -130,8 +130,8 @@ You must provide key/config to Gemini API, or you can use any other LLM you wish
 
 ## 👤 Author
 
-Made by **Aravind Kumar**  
-Want to make it even smarter or deploy for yourself/team? [Contact me!]
+Made by **Vyshnavi Kommu**  
+Want to make it even smarter or deploy for yourself/team? Contact me at kommuvyshnavi28@gmail.com
 
 ---
 
